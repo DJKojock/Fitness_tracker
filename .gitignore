@@ -1,0 +1,6 @@
+# This .gitignore file should be placed at the root of your project directory
+
+#Ignorable directories
+/Fitness_tracker/.vs
+/Fitness_tracker/bin
+/Fitness_tracker/obj
